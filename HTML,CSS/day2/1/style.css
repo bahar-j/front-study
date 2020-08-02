@@ -1,0 +1,25 @@
+
+input { 
+    border-style: none; border-radius: 5px; padding: 10px;
+ }
+
+.login-form { 
+    position: absolute;
+    top: 50%; left: 50%; transform: translate(-50%, -50%);
+    background-color: #EEEFF1; 
+    padding: 20px;
+    width: 260px; 
+ }
+
+.submit-btn {  
+    background-color: #1BBC9B; margin-bottom: 30px; 
+    color: white; width: 100%;
+ }
+
+a { 
+    color: #9b9b9b; font-size: 13px; margin-left: -20px;
+}
+
+.text-field { margin-bottom: 10px; width: 240px; }
+
+.links a { display: block; text-align: center; }
