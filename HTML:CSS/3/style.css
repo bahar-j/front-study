@@ -1,0 +1,19 @@
+.logo {
+     margin-top: 80px; display: block; margin-left: auto; margin-right: auto;
+}
+
+nav { 
+    font: "Helvetica"; color: #58595B; margin-top: 60px; margin-bottom: 60px; text-align: center;
+}
+
+a:visited {
+    color: #58595B; 
+}
+
+a { 
+    margin-left: 10px; margin-right: 10px; text-decoration: none;
+}
+
+.pic { 
+    width: 90%; text-align: center; display: block; margin-left: auto; margin-right: auto;
+}
