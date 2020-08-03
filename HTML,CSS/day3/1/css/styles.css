@@ -1,0 +1,18 @@
+/* 원본 CSS 코드 */
+
+h2 {
+  padding: 20px;
+}
+
+.pos h2 {
+  font-size: 30px;
+  padding: 20px;
+}
+
+.color1 h2 {
+  background: #FA987D;
+}
+
+.color2 h2 {
+  background: #72CCA7;
+}
